@@ -48,7 +48,6 @@ never sends clicks or key presses.
 
 - Only the game's own fonts and the bundled OpenDyslexic are available, not fonts
   installed on your computer.
-- The chatbox background isn't changed.
 - Game fonts are drawn at a fixed size, so very long lines may wrap less neatly than
   with OpenDyslexic.
 

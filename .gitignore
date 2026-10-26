@@ -1,0 +1,17 @@
+.gradle
+build
+.idea/
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+*.class
+# Local-only files
+.claude/
+.mcp.json
+install-to-bolt.sh
+*.iml
+.vscode/
+.DS_Store
